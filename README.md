@@ -37,11 +37,13 @@
 <h2 align="center">Languages & Tools 👨🏻‍🔬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,cpp,bash,python,javascript,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,bash,python,javascript" />
     </br>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,docker,aws,kali" /> <!-- wireshark,burpsuite,nmap,metasploit -->
+    <img src="https://skillicons.dev/icons?i=mysql,linux,vscode,docker,aws,kali" />
     </br>
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,nextjs,nodejs,express,mongodb,postman,vite" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,nextjs" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,vite" />
 </div>
 
 <br/>
