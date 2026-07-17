@@ -1,22 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Muhammad%20Ihsan%20Ul%20Haq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Pentesting%20Intern%20%40%20NCCIA&descSize=18&descAlignY=55&textBg=false"/>
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ihsanolhak">
-    <img src="https://komarev.com/ghpvc/?username=ihsanolhak&label=Profile%20views&color=00FFFF&style=flat-square" alt="ihsanolhak's profile views" />
-  </a>
-</p>
+
 
 ## 📌 About Me
 - 🎓 B.S. Cyber Security student at Air University, Islamabad (Expected 2028)
 - 🛡️ Pentesting Intern at **NCCIA** (National Cyber Crime Investigation Agency, Pakistan)
 - 🏁 CTF Challenge Author & Active Competitor - Cyber Security Society, Air University (AUCSS)
 - 🔍 Building hands-on security tools: DPI-resistant VPN clients, EDR-style detection engines, and full Wazuh SIEM deployments
-- 📜 Pursuing CEH certification alongside coursework
-- 💬 Ask me about SIEM detection engineering, network protocol evasion, or malware behavior analysis
 
 ## 🧠 My Focus Areas
 - 🔎 **SOC & Detection Engineering** - Wazuh, Sigma rules, MITRE ATT&CK-mapped detections, log analysis
 - 🕵️ **Penetration Testing** - Burp Suite, Metasploit, OWASP ZAP, network & web exploitation
-- ☁️ **Cloud Security** *(next up)* - AWS security fundamentals, cloud-native detection
 - 🌐 **Network Security & Evasion** - protocol-level tunneling, DPI resistance, IDS/IPS analysis with Suricata & Zeek
 
 
@@ -28,9 +21,6 @@
   <a href="https://github.com/ihsanolhak">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihsanolhak&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
   </a>
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ihsanolhak&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Ihsan Ul Haq's GitHub Trophies" />
 </p>
 
 <h2 align="center">Languages & Tools 👨🏻‍🔬</h2>
