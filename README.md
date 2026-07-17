@@ -31,9 +31,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ihsanolhak&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Ihsan Ul Haq's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ihsanolhak&theme=merko&radius=10" alt="ihsanolhak's Activity Graph" />
-</p>
 
 ## 🚀 Featured Projects
 
