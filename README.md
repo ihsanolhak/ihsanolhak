@@ -40,6 +40,8 @@
     <img src="https://skillicons.dev/icons?i=git,github,cpp,bash,python,javascript,mysql" />
     </br>
     <img src="https://skillicons.dev/icons?i=linux,vscode,docker,aws,kali" /> <!-- wireshark,burpsuite,nmap,metasploit -->
+    </br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,nextjs,nodejs,express,mongodb,postman,vite" />
 </div>
 
 <br/>
