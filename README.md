@@ -57,6 +57,17 @@
 **💾 [Forensic Bootloader](https://github.com/ihsanolhak)** — 16-bit real-mode bootloader with password auth & disk-sector logging
 `x86 Assembly` `QEMU`
 
+<h2 align="center">Languages & Tools 👨🏻‍🔬</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,bash,python,javascript,mysql" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=linux,vscode,docker,aws,kali" /> <!-- wireshark,burpsuite,nmap,metasploit -->
+</div>
+
+<br/>
+<hr/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
