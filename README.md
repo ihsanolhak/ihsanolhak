@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Muhammad%20Ihsan%20Ul%20Haq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20%7C%20SOC%20%E2%86%92%20Pentesting%20%E2%86%92%20Cloud%20Security&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Muhammad%20Ihsan%20Ul%20Haq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Pentesting%20Intern%20%40%20NCCIA&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ihsanolhak">
@@ -7,20 +7,19 @@
 </p>
 
 ## 📌 About Me
-- 🎓 B.S. Cyber Security student at Air University, Islamabad (Class of 2028)
-- 🕵️ Currently a Pentesting Intern at **NCCIA** (National Cyber Crime Investigation Agency, Pakistan)
-- 🏆 Challenge Author & CTF Competitor with the **Air University Cyber Security Society (AUCSS)**
-- 🛠️ I build production-style security tools rather than tutorial clones — SIEM stacks, DPI-resistant VPNs, EDR engines, and custom crypto
-- 📚 Currently pursuing **CEH** and **CCNA**
-- 🌱 Roadmap: SOC (entry) → Detection Engineering / Pentesting → Cloud Security
+- 🎓 B.S. Cyber Security student at Air University, Islamabad (Expected 2028)
+- 🛡️ Pentesting Intern at **NCCIA** (National Cyber Crime Investigation Agency, Pakistan)
+- 🏁 CTF Challenge Author & Active Competitor — Cyber Security Society, Air University (AUCSS)
+- 🔍 Building hands-on security tools: DPI-resistant VPN clients, EDR-style detection engines, and full Wazuh SIEM deployments
+- 📜 Pursuing CEH certification alongside coursework
+- 💬 Ask me about SIEM detection engineering, network protocol evasion, or malware behavior analysis
 
-## 🧠 Focus Areas
-- Security Monitoring & SIEM — Wazuh, Elastic Stack (ELK), OpenSearch, Sigma Rules, MITRE ATT&CK
-- Network Security & Analysis — Suricata, Zeek, Wireshark, tcpdump, PfSense, Nmap
-- Offensive Security — Metasploit, Burp Suite, OWASP ZAP, OpenVAS, OWASP Top 10
-- Applied Cryptography — chaotic-map & DNA-based encryption, key scheduling
-- Low-level Systems — x86 Assembly, bootloader/firmware-level programming
-- Privacy & Evasion Protocols — VLESS+REALITY, TLS/JA3-JA4 fingerprinting, sing-box
+## 🧠 My Focus Areas
+- 🔎 **SOC & Detection Engineering** — Wazuh, Sigma rules, MITRE ATT&CK-mapped detections, log analysis
+- 🕵️ **Penetration Testing** — Burp Suite, Metasploit, OWASP ZAP, network & web exploitation
+- ☁️ **Cloud Security** *(next up)* — AWS security fundamentals, cloud-native detection
+- 🌐 **Network Security & Evasion** — protocol-level tunneling, DPI resistance, IDS/IPS analysis with Suricata & Zeek
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -38,73 +37,38 @@
 
 ## 🚀 Featured Projects
 
-> ⚠️ Replace the repo links below with your actual repo URLs/names — placeholders used where I wasn't sure of exact repo naming.
-
-### 🔒 [Private-Panda — DPI-Resistant VPN Client](https://github.com/ihsanolhak/private-panda)
-Electron + Flask VPN client using **VLESS+REALITY** over sing-box TUN mode to evade deep packet inspection. Deployed on AWS EC2 with Nginx SNI multiplexing and Cloudflare split-DNS. Verified evasion against Zeek/Suricata IDS rule sets and documented JA3/JA4 TLS fingerprint camouflage.
+### 🔒 [Private-Panda — DPI-Resistant VPN Client](https://github.com/ihsanolhak)
 `Electron` `Flask` `Python` `Xray-core` `sing-box` `AWS EC2`
+Full-stack VPN client using VLESS+REALITY over sing-box TUN mode to evade deep packet inspection. Deployed on AWS EC2 with Nginx SNI multiplexing and Cloudflare split-DNS. Verified evasion against Zeek/Suricata IDS rule sets with documented JA3/JA4 TLS fingerprint camouflage.
 
-### 🛡️ [Cyber Threat Detection Suite (EDR Engine)](https://github.com/ihsanolhak/threat-detection-suite)
-EDR-style detection engine built on 7 core data structures (Trie, AVL Tree, Graph, Max-Heap, Hash Table). Aho-Corasick multi-pattern matching for high-throughput IOC scanning, with BFS/DFS-based suspicious artifact discovery and a live analyst dashboard.
-`C++` `Python` `Data Structures` `IOC Scanning`
+### 🛡️ Integrated Cyber Threat Detection Suite
+`C++` `Python`
+EDR-style threat detection engine built on 7 core data structures (Trie, AVL Tree, Graph, Max-Heap, Hash Table) for real-time malware signature matching and ransomware monitoring. Includes an Aho-Corasick multi-pattern matching engine for high-throughput IOC scanning.
 
-### 📈 [Wazuh SIEM Deployment](https://github.com/ihsanolhak/wazuh-siem-lab)
-Full Wazuh SIEM stack with custom XML decoders and detection rules mapped to MITRE ATT&CK. RBAC-configured OpenSearch with analyst/admin tiers, custom triage dashboards, and a documented incident response playbook.
-`Wazuh` `Elastic Stack` `OpenSearch` `MITRE ATT&CK`
+### 📡 Wazuh SIEM Deployment
+`Wazuh` `Elastic Stack` `OpenSearch` `Python`
+Full Wazuh SIEM stack with custom XML decoders and detection rules mapped to MITRE ATT&CK tactics. RBAC-configured OpenSearch with analyst/admin access tiers, custom triage dashboards, and a documented incident response playbook.
 
-### 🧬 [MHC-DIE — Hybrid Chaotic-DNA Image Encryption](https://github.com/ihsanolhak/mhc-die)
-Image encryption combining modified chaotic maps, DNA encoding, and SHA-512 key scheduling for a 2⁵¹² key space. Validated with NPCR, UACI, entropy, and correlation coefficient metrics against statistical/differential attacks.
-`Python` `NumPy` `SHA-512` `Cryptography`
+### 🧬 MHC-DIE — Modified Hybrid Chaotic-DNA Image Encryption
+`Python` `NumPy` `SHA-512`
+Hybrid image encryption combining modified chaotic maps with DNA encoding and SHA-512 key scheduling for a 2^512 key space. Cryptographic strength validated via NPCR, UACI, entropy, and correlation coefficient metrics.
 
-### 🧨 [Malware Persistence Behavior Analysis](https://github.com/ihsanolhak/malware-persistence-lab)
-Controlled academic lab demonstrating registry-based startup persistence and background data capture, mapped end-to-end to MITRE ATT&CK defensive mitigations in an isolated environment.
-`C++` `Windows API` `MITRE ATT&CK`
+### 🕹️ WebSocket Real-Time Multiplayer Server
+`JavaScript` `WebSocket API`
+Server-authoritative matchmaking backend with persistent WebSocket connections achieving sub-50ms round-trip latency for real-time game state propagation.
 
-### 💾 [Forensic Bootloader — Auth & Disk Logging](https://github.com/ihsanolhak/forensic-bootloader)
-16-bit real-mode bootloader with password authentication and forensic event logging directly to raw disk sectors via BIOS interrupts (INT 10h/13h/16h/1Ah) and RTC access.
+### 🧪 Malware Persistence Behavior Analysis
+`C++` `Windows API`
+Controlled academic demonstration of registry-based startup execution and multi-threaded background data capture, mapped to MITRE ATT&CK defensive mitigations in an isolated lab environment.
+
+### 💾 Forensic Bootloader — Authentication & Disk Logging
 `x86 Assembly` `QEMU` `VirtualBox`
+16-bit real-mode bootloader with password authentication and forensic event logging to raw disk sectors via BIOS interrupts (INT 10h, 13h, 16h, 1Ah) and RTC access.
 
-## 🏁 CTF & Labs
-- 🥇 Challenge Author — AUCSS CTF (OSINT & Web Exploitation challenges)
-- 🎯 Competitor — SOFTEC CTF, Airtech CTF, AUCSS CTF, Sudo Fuzzers
-- ✅ TryHackMe — SOC Level 1, Web Exploitation, Privilege Escalation paths
-- ✅ OverTheWire Bandit — completed
-- ✅ Burp Suite Web Security Academy — OWASP Top 10 labs
+> 📌 *Repo links point to my GitHub profile for now — will update with direct repo URLs.*
 
-## 🛠️ Tools & Technologies
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
-</p>
-
-<h3 align="center">Security & SIEM</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elastic Stack" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" />
-</p>
-
-<h3 align="center">Platforms & Infra</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ihsanolhak">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihsanolhak&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 📄 Resume & Contact
-> Add a direct link to your CV here once hosted, e.g. via a `resume` branch/repo or Google Drive share link.
-
+## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/m-ihsan-ul-hawq/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -117,4 +81,8 @@ Controlled academic lab demonstrating registry-based startup persistence and bac
   </a>
 </p>
 
-<p align="center"><em>Open to remote SOC / Detection Engineering / Junior Pentesting roles.</em></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
