@@ -26,7 +26,9 @@
   <a href="https://github.com/ihsanolhak">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihsanolhak&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="ihsanolhak's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ihsanolhak&theme=merko&hide_border=true&cache_seconds=86400" alt="ihsanolhak's GitHub Streak" width="49%" />
+  <a href="https://github.com/ihsanolhak">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihsanolhak&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ihsanolhak&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Ihsan Ul Haq's GitHub Trophies" />
@@ -62,15 +64,9 @@ Controlled academic demonstration of registry-based startup execution and multi-
 `x86 Assembly` `QEMU` `VirtualBox`
 16-bit real-mode bootloader with password authentication and forensic event logging to raw disk sectors via BIOS interrupts (INT 10h, 13h, 16h, 1Ah) and RTC access.
 
-> 📌 *Repo links point to my GitHub profile for now — will update with direct repo URLs.*
-
-## 💻 Top Languages
 <p align="center">
-  <a href="https://github.com/ihsanolhak">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihsanolhak&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
 
 ## 🔗 Connect with Me
 <p align="center">
