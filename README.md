@@ -4,7 +4,7 @@
 ## 📌 About Me
 - 🎓 B.S. Cyber Security student at Air University, Islamabad (Expected 2028)
 - 🛡️ Pentesting Intern at **NCCIA** (National Cyber Crime Investigation Agency, Pakistan)
-- 🏁 CTF Challenge Author & Active Competitor - Cyber Security Society, Air University (AUCSS)
+- 🏁 CTF Challenge Competitor - Cyber Security Society, Air University (AUCSS)
 - 🔍 Building hands-on security tools: DPI-resistant VPN clients, EDR-style detection engines, and full Wazuh SIEM deployments
 
 ## 🧠 My Focus Areas
@@ -13,7 +13,7 @@
 - 🌐 **Network Security & Evasion** - protocol-level tunneling, DPI resistance, IDS/IPS analysis with Suricata & Zeek
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/ihsanolhak">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihsanolhak&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="ihsanolhak's GitHub Stats" />
