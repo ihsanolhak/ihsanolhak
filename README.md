@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Muhammad%20Ihsan%20Ul%20Haq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Pentesting%20Intern%20%40%20NCCIA&descSize=18&descAlignY=55&textBg=false"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Muhammad%20Ihsan%20Ul%20Haq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Pentesting%20Intern%20%40%20NCCIA&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ihsanolhak">
     <img src="https://komarev.com/ghpvc/?username=ihsanolhak&label=Profile%20views&color=00FFFF&style=flat-square" alt="ihsanolhak's profile views" />
   </a>
-</p>
+</p>](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:DE9B35&text=Muhammad%20Ihsan%20Ul%20Haq&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Pentesting%20Intern%20%40%20NCCIA&descSize=18&descAlignY=55)
 
 ## 📌 About Me
 - 🎓 B.S. Cyber Security student at Air University, Islamabad (Expected 2028)
