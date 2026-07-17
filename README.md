@@ -9,16 +9,16 @@
 ## 📌 About Me
 - 🎓 B.S. Cyber Security student at Air University, Islamabad (Expected 2028)
 - 🛡️ Pentesting Intern at **NCCIA** (National Cyber Crime Investigation Agency, Pakistan)
-- 🏁 CTF Challenge Author & Active Competitor — Cyber Security Society, Air University (AUCSS)
+- 🏁 CTF Competitor — Cyber Security Society, Air University (AUCSS)
 - 🔍 Building hands-on security tools: DPI-resistant VPN clients, EDR-style detection engines, and full Wazuh SIEM deployments
 - 📜 Pursuing CEH certification alongside coursework
 - 💬 Ask me about SIEM detection engineering, network protocol evasion, or malware behavior analysis
 
 ## 🧠 My Focus Areas
-- 🔎 **SOC & Detection Engineering** — Wazuh, Sigma rules, MITRE ATT&CK-mapped detections, log analysis
-- 🕵️ **Penetration Testing** — Burp Suite, Metasploit, OWASP ZAP, network & web exploitation
-- ☁️ **Cloud Security** *(next up)* — AWS security fundamentals, cloud-native detection
-- 🌐 **Network Security & Evasion** — protocol-level tunneling, DPI resistance, IDS/IPS analysis with Suricata & Zeek
+- 🔎 **SOC & Detection Engineering** - Wazuh, Sigma rules, MITRE ATT&CK-mapped detections, log analysis
+- 🕵️ **Penetration Testing** - Burp Suite, Metasploit, OWASP ZAP, network & web exploitation
+- ☁️ **Cloud Security** - AWS security fundamentals, cloud-native detection
+- 🌐 **Network Security & Evasion** - protocol-level tunneling, DPI resistance, IDS/IPS analysis with Suricata & Zeek
 
 
 ## 📊 GitHub Stats & Trophies
